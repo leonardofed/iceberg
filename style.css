@@ -1,0 +1,27 @@
+.adverb {
+  background: #c4e3f3;
+}
+
+.qualifier {
+  background: #c4e3f3;
+}
+
+.passive {
+  background: #c4ed9d;
+}
+
+.complex {
+  background: #e3b7e8;
+}
+
+.hardSentence {
+  background: #f7ecb5;
+}
+
+.veryHardSentence {
+  background: #e4b9b9;
+}
+
+.bg-hidden {
+  background: none !important;
+}
