@@ -1,2 +1,2 @@
-# shortmail
-For those who love to send short email
+# Iceberg Mail
+A minimalistic approach to send concise emails.
